@@ -1,6 +1,6 @@
 # Groqium 
-Groqium is a CLI AI tool powered by your Groq API
-Groqium lets you send input and receive output from your AI
+Groqium is a CLI AI tool powered by your Groq API.
+Groqium lets you send input and receive output from your AI hosted by Groq.
 !!! Groqium is NOT affiliated with the Groq or GroqCloud Company in ANY way. This is the official version of Groqium. !!!
 
 # -How to install and run Groqium-
