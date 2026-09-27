@@ -10,5 +10,5 @@ You can use setup.py to get the rest of the software set up and running if you n
 3. Run "python3 -m venv venv"
 4. Run "source venv/bin/activate"
 5. Run "pip install groq"
-6. Run "python3 main.py" to start Groqium
+6. Run "python3 main.py" to start Groqium.
 If you have any issues email me at johnblackwood1@proton.me
